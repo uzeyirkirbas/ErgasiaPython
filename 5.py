@@ -82,7 +82,6 @@ isTrue = 0
 sign = 0
 completed = 0
 blank = 0
-dimention = 3
 SOS_Sum = 0
 
 def SignCounter():
